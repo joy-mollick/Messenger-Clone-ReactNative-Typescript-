@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "357054304520",
+    "firebase_url": "https://what-3497b-default-rtdb.firebaseio.com",
+    "project_id": "what-3497b",
+    "storage_bucket": "what-3497b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357054304520:android:96b196596b6ca775f01cbd",
+        "android_client_info": {
+          "package_name": "com.bakarah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357054304520-trhj8itd9g6c944o5gsfbeiv607beqqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3_bYY1TkJRl4rZkLIHslN1tan2O0yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357054304520-trhj8itd9g6c944o5gsfbeiv607beqqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357054304520:android:777248ba6b0f665af01cbd",
+        "android_client_info": {
+          "package_name": "com.kobutor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357054304520-trhj8itd9g6c944o5gsfbeiv607beqqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3_bYY1TkJRl4rZkLIHslN1tan2O0yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357054304520-trhj8itd9g6c944o5gsfbeiv607beqqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357054304520:android:3ab069b1eca25870f01cbd",
+        "android_client_info": {
+          "package_name": "com.rnasyncstorageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357054304520-trhj8itd9g6c944o5gsfbeiv607beqqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3_bYY1TkJRl4rZkLIHslN1tan2O0yJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357054304520-trhj8itd9g6c944o5gsfbeiv607beqqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
