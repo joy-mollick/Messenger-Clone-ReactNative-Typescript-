@@ -44,6 +44,7 @@ export default function App() {
 
     function checking()
     {
+        /// Toy means another user from chat side ,Here I already created another account named Toy just to check whether he is typing or not 
         database().ref('users').child('Toy').once('value')
         .then(snapshot => {if(snapshot.val().typing==true) setType(true); else setType(false) })
     }
@@ -75,6 +76,7 @@ export default function App() {
             checking();
             if (isTyping){
               return (<View style={[styles.balloon, {backgroundColor: 'green'}]}>
+               /// Toy means another user from chat side ,Here I already created another account named Toy just to check whether he is typing or not 
               <Text style={{paddingTop: 5, color: 'white'}}>Toy is typing....</Text>
               <View
               style={[
