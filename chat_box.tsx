@@ -208,6 +208,7 @@ export default function App() {
               })
     }
 
+    /// This is for just background music according to your message 
     function sounds( mess:any)
     {
       let res:string;
@@ -217,7 +218,6 @@ export default function App() {
       else if(mess=="ragi") res="lion";
       else if(mess=="kutta") res="kutta";
       else if(mess=="congrats") res="congrats";
-      else if(mess=="ummah") res="ummah";
       else if(mess=="hachi") res="hachi";
       else if(mess=="kashi") res="kashi";
 
@@ -329,7 +329,6 @@ export default function App() {
         if(messages[0].text.includes("rain")) sounds("rain");
         else if(messages[0].text.includes("birds")) sounds("birds");
         else if(messages[0].text.includes("kutta")) sounds("kutta");
-        else if(messages[0].text.includes("ummah")) sounds("ummah");
         else if(messages[0].text.includes("congrats")) sounds("congrats");
         else if(messages[0].text.includes("ragi")) sounds("ragi");
         else if(messages[0].text.includes("kashi")) sounds("kashi");
